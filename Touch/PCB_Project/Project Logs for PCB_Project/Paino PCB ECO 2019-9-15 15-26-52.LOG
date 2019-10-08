@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Touch1 Old Footprint=SSOP16_N New Footprint=SO-16_N
+Change Component Footprint: Designator=Touch2 Old Footprint=SSOP16_N New Footprint=SO-16_N
+Added Room: Name=MCU
+Added Room: Name=POWER
+Added Room: Name=WS2812

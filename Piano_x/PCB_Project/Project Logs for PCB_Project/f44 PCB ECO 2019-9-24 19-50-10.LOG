@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DEBUG_TX Pin=R22-1
+Removed Pin From Net: NetName=DEBUG_RX Pin=R24-1
+Added Pin To Net: NetName=DEBUG_RX Pin=R22-1
+Added Pin To Net: NetName=DEBUG_TX Pin=R24-1
+Change Net Name : Old Net Name=UART1_RXD New Net Name=UART1_TXD
+Added Pin To Net: NetName=UART1_RXD Pin=P4-6
+Added Pin To Net: NetName=UART1_RXD Pin=U4-31
+Added Net: Name=UART1_RXD

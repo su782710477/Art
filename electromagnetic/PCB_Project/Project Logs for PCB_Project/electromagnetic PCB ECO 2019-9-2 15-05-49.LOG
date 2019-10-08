@@ -1,0 +1,12 @@
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Component: Designator=TP3(TP)
+Added Component: Designator=TP4(TP)
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=VCC Pin=TP2-1
+Added Pin To Net: NetName=VCC Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Member To Class: ClassName=electromagnetic Member=Component TP1 TP
+Added Member To Class: ClassName=electromagnetic Member=Component TP2 TP
+Added Member To Class: ClassName=electromagnetic Member=Component TP3 TP
+Added Member To Class: ClassName=electromagnetic Member=Component TP4 TP

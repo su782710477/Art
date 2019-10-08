@@ -1,0 +1,10 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 6 0.275 1.01 270 N Touch1 TP ;0=1,1=0.3937
+TOP 0 0.2952756 1.01 270 N 2 0 Touch1-1
+#

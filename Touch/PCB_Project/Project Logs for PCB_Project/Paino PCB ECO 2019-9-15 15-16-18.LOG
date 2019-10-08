@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=C8 NewDesignator=C12
+Change Component Designator: OldDesignator=C9 NewDesignator=C5
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C7
+Change Component Designator: OldDesignator=C12 NewDesignator=C8
+Change Component Designator: OldDesignator=Key2 NewDesignator=Key9
+Change Component Designator: OldDesignator=Key3 NewDesignator=Key2
+Change Component Designator: OldDesignator=Key4 NewDesignator=Key10
+Change Component Designator: OldDesignator=Key5 NewDesignator=Key3
+Change Component Designator: OldDesignator=Key6 NewDesignator=Key11
+Change Component Designator: OldDesignator=Key7 NewDesignator=Key4
+Change Component Designator: OldDesignator=Key8 NewDesignator=Key12
+Change Component Designator: OldDesignator=Key9 NewDesignator=Key5
+Change Component Designator: OldDesignator=Key10 NewDesignator=Key13
+Change Component Designator: OldDesignator=Key11 NewDesignator=Key6
+Change Component Designator: OldDesignator=Key12 NewDesignator=Key14
+Change Component Designator: OldDesignator=Key13 NewDesignator=Key7
+Change Component Designator: OldDesignator=Key14 NewDesignator=Key15
+Change Component Designator: OldDesignator=Key15 NewDesignator=Key8
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC12_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC8_1
+Added Room: Name=MCU
+Added Room: Name=POWER
+Added Room: Name=WS2812

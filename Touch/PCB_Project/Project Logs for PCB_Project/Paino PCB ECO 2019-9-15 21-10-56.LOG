@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DATA_IN Pin=JP2-1
+Removed Pin From Net: NetName=DATA_OUT Pin=JP3-1
+Added Pin To Net: NetName=DATA_OUT Pin=JP2-1
+Added Pin To Net: NetName=DATA_IN Pin=JP3-1

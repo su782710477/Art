@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: G:\Art\DC12V\PCB_Project\DC.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=dc-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=dc-slotholes-plated.txt|DrillLayers=gtl,gbl

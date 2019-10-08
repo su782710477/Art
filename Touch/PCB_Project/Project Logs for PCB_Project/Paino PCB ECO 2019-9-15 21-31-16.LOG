@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=+5V Pin=C38-1
+Added Pin To Net: NetName=+5V Pin=C41-2
+Added Pin To Net: NetName=+5V Pin=C42-2
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=+5V Pin=VR1-3
+Change Net Name : Old Net Name=+5V New Net Name=VDD_5.0

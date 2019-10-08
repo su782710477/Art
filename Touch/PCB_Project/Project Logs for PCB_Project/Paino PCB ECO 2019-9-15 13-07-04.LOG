@@ -1,0 +1,60 @@
+Removed Member From Class: ClassName=WS2812 Member=C33
+Removed Member From Class: ClassName=WS2812 Member=C34
+Removed Member From Class: ClassName=WS2812 Member=C35
+Removed Member From Class: ClassName=WS2812 Member=C36
+Removed Member From Class: ClassName=WS2812 Member=C37
+Removed Member From Class: ClassName=WS2812 Member=C38
+Removed Member From Class: ClassName=WS2812 Member=C39
+Removed Member From Class: ClassName=WS2812 Member=C40
+Removed Member From Class: ClassName=WS2812 Member=C41
+Removed Member From Class: ClassName=WS2812 Member=C42
+Removed Member From Class: ClassName=WS2812 Member=C43
+Removed Member From Class: ClassName=WS2812 Member=C44
+Removed Member From Class: ClassName=POWER Member=U1
+Added Component: Designator=Touch1(SSOP16_N)
+Added Component: Designator=Touch2(SSOP16_N)
+Added Pin To Net: NetName=NetC1_1 Pin=Touch1-1
+Added Pin To Net: NetName=NetC2_1 Pin=Touch1-2
+Added Pin To Net: NetName=NetC3_1 Pin=Touch1-3
+Added Pin To Net: NetName=NetC4_1 Pin=Touch1-4
+Added Pin To Net: NetName=NetC9_1 Pin=Touch1-5
+Added Pin To Net: NetName=NetC10_1 Pin=Touch1-6
+Added Pin To Net: NetName=NetC11_1 Pin=Touch1-7
+Added Pin To Net: NetName=NetC12_1 Pin=Touch1-8
+Added Pin To Net: NetName=POWER_GND Pin=Touch1-9
+Added Pin To Net: NetName=+5V Pin=Touch1-10
+Added Pin To Net: NetName=POWER_GND Pin=Touch1-12
+Added Pin To Net: NetName=BIN0 Pin=Touch1-13
+Added Pin To Net: NetName=BIN1 Pin=Touch1-14
+Added Pin To Net: NetName=BIN2 Pin=Touch1-15
+Added Pin To Net: NetName=BIN3 Pin=Touch1-16
+Added Pin To Net: NetName=NetC5_1 Pin=Touch2-1
+Added Pin To Net: NetName=NetC6_1 Pin=Touch2-2
+Added Pin To Net: NetName=NetC7_1 Pin=Touch2-3
+Added Pin To Net: NetName=NetC8_1 Pin=Touch2-4
+Added Pin To Net: NetName=NetC13_1 Pin=Touch2-5
+Added Pin To Net: NetName=NetC14_1 Pin=Touch2-6
+Added Pin To Net: NetName=NetC15_1 Pin=Touch2-7
+Added Pin To Net: NetName=NetC16_1 Pin=Touch2-8
+Added Pin To Net: NetName=POWER_GND Pin=Touch2-9
+Added Pin To Net: NetName=+5V Pin=Touch2-10
+Added Pin To Net: NetName=POWER_GND Pin=Touch2-12
+Added Pin To Net: NetName=BIN4 Pin=Touch2-13
+Added Pin To Net: NetName=BIN5 Pin=Touch2-14
+Added Pin To Net: NetName=BIN6 Pin=Touch2-15
+Added Pin To Net: NetName=BIN7 Pin=Touch2-16
+Added Member To Class: ClassName=WS2812 Member=Component C17 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C19 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C20 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C21 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C22 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C23 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C24 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C25 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C26 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C27 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C28 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C29 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component Touch1 BS818A-2
+Added Member To Class: ClassName=WS2812 Member=Component Touch2 BS818A-2
+Added Member To Class: ClassName=POWER Member=Component U2 MP2359DJ-LF-Z

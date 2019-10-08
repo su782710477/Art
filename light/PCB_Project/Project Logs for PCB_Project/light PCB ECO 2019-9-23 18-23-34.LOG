@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DIN Pin=LED7-4
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED7-4
+Added Net: Name=NetLED6_2
+Added Room: Name=led
+Added Room: Name=touch

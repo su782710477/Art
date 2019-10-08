@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DC.PcbDoc   2019/9/29  19:10:54
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : DC-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : DC-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             57        PTH        2.73inch (69.27mm)
+T2      28mil (0.711mm)                                           Round             39        PTH        7.82inch (198.65mm)
+T3      30mil (0.75mm)                                            Round             12        PTH        3.44inch (87.48mm)
+T4      32mil (0.8mm)                                             Slot              18        PTH        11.14inch (282.84mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        4.06inch (103.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              130
+
+Total Processing Time (hh:mm:ss) : 00:00:00

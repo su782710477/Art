@@ -1,0 +1,241 @@
+Change Component Footprint: Designator=JP4 Old Footprint=XH2.54-WI-5P New Footprint=XH2.54-WS-5P
+Change Component Footprint: Designator=JP5 Old Footprint=XH2.54-WI-5P New Footprint=XH2.54-WS-5P
+Change Component Designator: OldDesignator=C17 NewDesignator=C33
+Change Component Designator: OldDesignator=C19 NewDesignator=C34
+Change Component Designator: OldDesignator=C20 NewDesignator=C35
+Change Component Designator: OldDesignator=C21 NewDesignator=C36
+Change Component Designator: OldDesignator=C22 NewDesignator=C37
+Change Component Designator: OldDesignator=C23 NewDesignator=C38
+Change Component Designator: OldDesignator=C24 NewDesignator=C39
+Change Component Designator: OldDesignator=C25 NewDesignator=C40
+Change Component Designator: OldDesignator=C26 NewDesignator=C41
+Change Component Designator: OldDesignator=C27 NewDesignator=C42
+Change Component Designator: OldDesignator=C28 NewDesignator=C43
+Change Component Designator: OldDesignator=C29 NewDesignator=C44
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP3
+Change Component Designator: OldDesignator=R8 NewDesignator=R3
+Change Component Designator: OldDesignator=R9 NewDesignator=R4
+Change Component Designator: OldDesignator=R10 NewDesignator=R5
+Change Component Designator: OldDesignator=R11 NewDesignator=R6
+Change Component Designator: OldDesignator=R12 NewDesignator=R7
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Added Component: Designator=C17(0805_C)
+Added Component: Designator=C18(0805_C)
+Added Component: Designator=C19(0805_C)
+Added Component: Designator=C20(0805_C)
+Added Component: Designator=C21(0805_C)
+Added Component: Designator=C22(0805_C)
+Added Component: Designator=C23(0805_C)
+Added Component: Designator=C24(0805_C)
+Added Component: Designator=C25(0805_C)
+Added Component: Designator=C26(0805_C)
+Added Component: Designator=C27(0805_C)
+Added Component: Designator=C28(0805_C)
+Added Component: Designator=C29(0805_C)
+Added Component: Designator=C30(0805_C)
+Added Component: Designator=C31(0805_C)
+Added Component: Designator=C32(0805_C)
+Added Component: Designator=Key1(TP)
+Added Component: Designator=Key2(TP)
+Added Component: Designator=Key3(TP)
+Added Component: Designator=Key4(TP)
+Added Component: Designator=Key5(TP)
+Added Component: Designator=Key6(TP)
+Added Component: Designator=Key7(TP)
+Added Component: Designator=Key8(TP)
+Added Component: Designator=Key9(TP)
+Added Component: Designator=Key10(TP)
+Added Component: Designator=Key11(TP)
+Added Component: Designator=Key12(TP)
+Added Component: Designator=Key13(TP)
+Added Component: Designator=Key14(TP)
+Added Component: Designator=Key15(TP)
+Added Component: Designator=Key16(TP)
+Added Component: Designator=LED1(WS2812)
+Added Component: Designator=LED2(WS2812)
+Added Component: Designator=LED3(WS2812)
+Added Component: Designator=LED4(WS2812)
+Added Component: Designator=LED5(WS2812)
+Added Component: Designator=LED6(WS2812)
+Added Component: Designator=LED7(WS2812)
+Added Component: Designator=LED8(WS2812)
+Added Component: Designator=LED9(WS2812)
+Added Component: Designator=LED10(WS2812)
+Added Component: Designator=LED11(WS2812)
+Added Component: Designator=LED12(WS2812)
+Added Component: Designator=LED13(WS2812)
+Added Component: Designator=LED14(WS2812)
+Added Component: Designator=LED15(WS2812)
+Added Component: Designator=LED16(WS2812)
+Added Pin To Net: NetName=POWER_GND Pin=C17-1
+Added Pin To Net: NetName=+5V Pin=C17-2
+Added Pin To Net: NetName=POWER_GND Pin=C18-1
+Added Pin To Net: NetName=+5V Pin=C18-2
+Added Pin To Net: NetName=POWER_GND Pin=C19-1
+Added Pin To Net: NetName=+5V Pin=C19-2
+Added Pin To Net: NetName=POWER_GND Pin=C20-1
+Added Pin To Net: NetName=+5V Pin=C20-2
+Added Pin To Net: NetName=POWER_GND Pin=C21-1
+Added Pin To Net: NetName=+5V Pin=C21-2
+Added Pin To Net: NetName=POWER_GND Pin=C22-1
+Added Pin To Net: NetName=+5V Pin=C22-2
+Added Pin To Net: NetName=POWER_GND Pin=C23-1
+Added Pin To Net: NetName=+5V Pin=C23-2
+Added Pin To Net: NetName=POWER_GND Pin=C24-1
+Added Pin To Net: NetName=+5V Pin=C24-2
+Added Pin To Net: NetName=POWER_GND Pin=C25-1
+Added Pin To Net: NetName=+5V Pin=C25-2
+Added Pin To Net: NetName=POWER_GND Pin=C26-1
+Added Pin To Net: NetName=+5V Pin=C26-2
+Added Pin To Net: NetName=POWER_GND Pin=C27-1
+Added Pin To Net: NetName=+5V Pin=C27-2
+Added Pin To Net: NetName=POWER_GND Pin=C28-1
+Added Pin To Net: NetName=+5V Pin=C28-2
+Added Pin To Net: NetName=POWER_GND Pin=C29-1
+Added Pin To Net: NetName=+5V Pin=C29-2
+Added Pin To Net: NetName=POWER_GND Pin=C30-1
+Added Pin To Net: NetName=+5V Pin=C30-2
+Added Pin To Net: NetName=POWER_GND Pin=C31-1
+Added Pin To Net: NetName=+5V Pin=C31-2
+Added Pin To Net: NetName=POWER_GND Pin=C32-1
+Added Pin To Net: NetName=+5V Pin=C32-2
+Added Pin To Net: NetName=NetC1_1 Pin=Key1-1
+Added Pin To Net: NetName=NetC5_1 Pin=Key2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Key3-1
+Added Pin To Net: NetName=NetC6_1 Pin=Key4-1
+Added Pin To Net: NetName=NetC3_1 Pin=Key5-1
+Added Pin To Net: NetName=NetC7_1 Pin=Key6-1
+Added Pin To Net: NetName=NetC4_1 Pin=Key7-1
+Added Pin To Net: NetName=NetC8_1 Pin=Key8-1
+Added Pin To Net: NetName=NetC9_1 Pin=Key9-1
+Added Pin To Net: NetName=NetC13_1 Pin=Key10-1
+Added Pin To Net: NetName=NetC10_1 Pin=Key11-1
+Added Pin To Net: NetName=NetC14_1 Pin=Key12-1
+Added Pin To Net: NetName=NetC11_1 Pin=Key13-1
+Added Pin To Net: NetName=NetC15_1 Pin=Key14-1
+Added Pin To Net: NetName=NetC12_1 Pin=Key15-1
+Added Pin To Net: NetName=NetC16_1 Pin=Key16-1
+Added Pin To Net: NetName=+5V Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=POWER_GND Pin=LED1-3
+Added Pin To Net: NetName=DATA_IN Pin=LED1-4
+Added Pin To Net: NetName=+5V Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=POWER_GND Pin=LED2-3
+Added Pin To Net: NetName=NetLED1_2 Pin=LED2-4
+Added Pin To Net: NetName=+5V Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=POWER_GND Pin=LED3-3
+Added Pin To Net: NetName=NetLED2_2 Pin=LED3-4
+Added Pin To Net: NetName=+5V Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=POWER_GND Pin=LED4-3
+Added Pin To Net: NetName=NetLED3_2 Pin=LED4-4
+Added Pin To Net: NetName=+5V Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=POWER_GND Pin=LED5-3
+Added Pin To Net: NetName=NetLED4_2 Pin=LED5-4
+Added Pin To Net: NetName=+5V Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=POWER_GND Pin=LED6-3
+Added Pin To Net: NetName=NetLED5_2 Pin=LED6-4
+Added Pin To Net: NetName=+5V Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=POWER_GND Pin=LED7-3
+Added Pin To Net: NetName=NetLED6_2 Pin=LED7-4
+Added Pin To Net: NetName=+5V Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=POWER_GND Pin=LED8-3
+Added Pin To Net: NetName=NetLED7_2 Pin=LED8-4
+Added Pin To Net: NetName=+5V Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=POWER_GND Pin=LED9-3
+Added Pin To Net: NetName=NetLED8_2 Pin=LED9-4
+Added Pin To Net: NetName=+5V Pin=LED10-1
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=POWER_GND Pin=LED10-3
+Added Pin To Net: NetName=NetLED9_2 Pin=LED10-4
+Added Pin To Net: NetName=+5V Pin=LED11-1
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=POWER_GND Pin=LED11-3
+Added Pin To Net: NetName=NetLED10_2 Pin=LED11-4
+Added Pin To Net: NetName=+5V Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=POWER_GND Pin=LED12-3
+Added Pin To Net: NetName=NetLED11_2 Pin=LED12-4
+Added Pin To Net: NetName=+5V Pin=LED13-1
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=POWER_GND Pin=LED13-3
+Added Pin To Net: NetName=NetLED12_2 Pin=LED13-4
+Added Pin To Net: NetName=+5V Pin=LED14-1
+Added Pin To Net: NetName=NetLED14_2 Pin=LED14-2
+Added Pin To Net: NetName=POWER_GND Pin=LED14-3
+Added Pin To Net: NetName=NetLED13_2 Pin=LED14-4
+Added Pin To Net: NetName=+5V Pin=LED15-1
+Added Pin To Net: NetName=NetLED15_2 Pin=LED15-2
+Added Pin To Net: NetName=POWER_GND Pin=LED15-3
+Added Pin To Net: NetName=NetLED14_2 Pin=LED15-4
+Added Pin To Net: NetName=+5V Pin=LED16-1
+Added Pin To Net: NetName=DATA_OUT Pin=LED16-2
+Added Pin To Net: NetName=POWER_GND Pin=LED16-3
+Added Pin To Net: NetName=NetLED15_2 Pin=LED16-4
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC39_1
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC39_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR5_1
+Added Member To Class: ClassName=WS2812 Member=Component C17 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C18 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C19 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C20 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C21 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C22 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C23 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C24 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C25 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C26 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C27 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C28 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C29 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C30 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C31 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component C32 10uF (106) 10% 25V
+Added Member To Class: ClassName=WS2812 Member=Component Key1 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key2 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key3 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key4 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key5 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key6 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key7 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key8 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key9 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key10 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key11 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key12 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key13 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key14 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key15 TP
+Added Member To Class: ClassName=WS2812 Member=Component Key16 TP
+Added Member To Class: ClassName=WS2812 Member=Component LED1 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED2 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED3 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED4 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED5 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED6 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED7 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED8 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED9 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED10 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED11 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED12 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED13 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED14 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED15 WS2812B
+Added Member To Class: ClassName=WS2812 Member=Component LED16 WS2812B

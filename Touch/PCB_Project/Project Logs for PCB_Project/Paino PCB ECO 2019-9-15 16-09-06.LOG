@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BIN0 Pin=U1-14
+Removed Pin From Net: NetName=BIN1 Pin=U1-15
+Removed Pin From Net: NetName=BIN2 Pin=U1-16
+Removed Pin From Net: NetName=BIN3 Pin=U1-17
+Removed Pin From Net: NetName=BIN4 Pin=U1-18
+Removed Pin From Net: NetName=BIN5 Pin=U1-19
+Removed Pin From Net: NetName=BIN6 Pin=U1-20
+Removed Pin From Net: NetName=BIN7 Pin=U1-21
+Added Pin To Net: NetName=BIN7 Pin=U1-14
+Added Pin To Net: NetName=BIN6 Pin=U1-15
+Added Pin To Net: NetName=BIN5 Pin=U1-16
+Added Pin To Net: NetName=BIN4 Pin=U1-17
+Added Pin To Net: NetName=BIN3 Pin=U1-18
+Added Pin To Net: NetName=BIN2 Pin=U1-19
+Added Pin To Net: NetName=BIN1 Pin=U1-20
+Added Pin To Net: NetName=BIN0 Pin=U1-21

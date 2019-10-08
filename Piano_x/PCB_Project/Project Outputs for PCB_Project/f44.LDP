@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: G:\Art\Piano_x\PCB_Project\f44.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=f44-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=f44-slotholes.txt|DrillLayers=gtl,gbl

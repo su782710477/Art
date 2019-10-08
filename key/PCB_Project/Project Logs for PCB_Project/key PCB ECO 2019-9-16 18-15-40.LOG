@@ -1,0 +1,33 @@
+Added Component: Designator=C1(0603_C)
+Added Component: Designator=C2(0603_C)
+Added Component: Designator=P1(FPC1.0-2H-WS-4P)
+Added Component: Designator=R1(0603_R)
+Added Component: Designator=R2(0603_R)
+Added Component: Designator=T1(SOT-23-6)
+Added Component: Designator=Touch1(TP)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=T1-3
+Added Pin To Net: NetName=NetC1_2 Pin=Touch1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=T1-6
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=T1-4
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=OUT Pin=P1-1
+Added Pin To Net: NetName=OUT Pin=T1-1
+Added Net: Name=OUT
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=T1-5
+Added Net: Name=VCC
+Added Class: Name=key
+Added Room: Name=key

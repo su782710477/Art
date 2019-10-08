@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=UART1_TXD Pin=U1-29
+Removed Pin From Net: NetName=UART1_RXD Pin=U1-30
+Removed Member From Class: ClassName=MCU Member=P5
+Removed Member From Class: ClassName=MCU Member=P6
+Added Pin To Net: NetName=UART1_TXD Pin=U1-30
+Added Pin To Net: NetName=UART1_RXD Pin=U1-31
+Added Member To Class: ClassName=POWER Member=Component ESD1 ESD5Z12T

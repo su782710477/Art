@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=POWER_+12V Pin=JP2-1
+Removed Pin From Net: NetName=POWER_GND Pin=JP2-2
+Removed Pin From Net: NetName=UART2_TXD Pin=JP2-3
+Removed Pin From Net: NetName=UART2_RXD Pin=JP2-4
+Removed Pin From Net: NetName=DATA_OUT Pin=JP2-5
+Removed Pin From Net: NetName=POWER_+12V Pin=JP3-1
+Removed Pin From Net: NetName=POWER_GND Pin=JP3-2
+Removed Pin From Net: NetName=UART1_TXD Pin=JP3-3
+Removed Pin From Net: NetName=UART1_RXD Pin=JP3-4
+Removed Pin From Net: NetName=DATA_IN Pin=JP3-5
+Removed Member From Class: ClassName=POWER Member=JP2
+Removed Member From Class: ClassName=POWER Member=JP3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Added Component: Designator=P5(FPC1.0-2H-WS-8P)
+Added Component: Designator=P6(FPC1.0-2H-WS-8P)
+Added Pin To Net: NetName=POWER_+12V Pin=P5-1
+Added Pin To Net: NetName=POWER_GND Pin=P5-2
+Added Pin To Net: NetName=UART2_TXD Pin=P5-3
+Added Pin To Net: NetName=UART2_RXD Pin=P5-4
+Added Pin To Net: NetName=POWER_+12V Pin=P5-5
+Added Pin To Net: NetName=POWER_GND Pin=P5-6
+Added Pin To Net: NetName=DATA_OUT Pin=P5-7
+Added Pin To Net: NetName=POWER_GND Pin=P5-8
+Added Pin To Net: NetName=POWER_+12V Pin=P6-1
+Added Pin To Net: NetName=POWER_GND Pin=P6-2
+Added Pin To Net: NetName=UART1_TXD Pin=P6-3
+Added Pin To Net: NetName=UART1_RXD Pin=P6-4
+Added Pin To Net: NetName=POWER_+12V Pin=P6-5
+Added Pin To Net: NetName=POWER_GND Pin=P6-6
+Added Pin To Net: NetName=DATA_IN Pin=P6-7
+Added Pin To Net: NetName=POWER_GND Pin=P6-8
+Added Member To Class: ClassName=POWER Member=Component P5 Header 8
+Added Member To Class: ClassName=POWER Member=Component P6 Header 8

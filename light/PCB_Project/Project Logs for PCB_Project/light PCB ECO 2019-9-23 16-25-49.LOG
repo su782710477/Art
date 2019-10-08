@@ -1,0 +1,42 @@
+Added Component: Designator=LED1(WS2812)
+Added Component: Designator=LED2(WS2812)
+Added Component: Designator=LED3(WS2812)
+Added Component: Designator=LED4(WS2812)
+Added Component: Designator=LED5(WS2812)
+Added Component: Designator=LED6(WS2812)
+Added Component: Designator=LED7(WS2812)
+Added Pin To Net: NetName=VDD Pin=LED1-1
+Added Pin To Net: NetName=DOUT Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED1-3
+Added Pin To Net: NetName=DIN Pin=LED1-4
+Added Pin To Net: NetName=VDD Pin=LED2-1
+Added Pin To Net: NetName=DOUT Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED2-3
+Added Pin To Net: NetName=DIN Pin=LED2-4
+Added Pin To Net: NetName=VDD Pin=LED3-1
+Added Pin To Net: NetName=DOUT Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=LED3-3
+Added Pin To Net: NetName=DIN Pin=LED3-4
+Added Pin To Net: NetName=VDD Pin=LED4-1
+Added Pin To Net: NetName=DOUT Pin=LED4-2
+Added Pin To Net: NetName=GND Pin=LED4-3
+Added Pin To Net: NetName=DIN Pin=LED4-4
+Added Pin To Net: NetName=VDD Pin=LED5-1
+Added Pin To Net: NetName=DOUT Pin=LED5-2
+Added Pin To Net: NetName=GND Pin=LED5-3
+Added Pin To Net: NetName=DIN Pin=LED5-4
+Added Pin To Net: NetName=VDD Pin=LED6-1
+Added Pin To Net: NetName=DOUT Pin=LED6-2
+Added Pin To Net: NetName=GND Pin=LED6-3
+Added Pin To Net: NetName=DIN Pin=LED6-4
+Added Pin To Net: NetName=VDD Pin=LED7-1
+Added Pin To Net: NetName=DOUT Pin=LED7-2
+Added Pin To Net: NetName=GND Pin=LED7-3
+Added Pin To Net: NetName=DIN Pin=LED7-4
+Added Member To Class: ClassName=led Member=Component LED1 WS2812B
+Added Member To Class: ClassName=led Member=Component LED2 WS2812B
+Added Member To Class: ClassName=led Member=Component LED3 WS2812B
+Added Member To Class: ClassName=led Member=Component LED4 WS2812B
+Added Member To Class: ClassName=led Member=Component LED5 WS2812B
+Added Member To Class: ClassName=led Member=Component LED6 WS2812B
+Added Member To Class: ClassName=led Member=Component LED7 WS2812B

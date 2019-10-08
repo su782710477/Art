@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Member To Class: ClassName=electromagnetic Member=Component C1 100nF (104) 10% 50V
+Added Member To Class: ClassName=electromagnetic Member=Component R2 2K¦¸ (2001) ¡À1%
+Added Member To Class: ClassName=electromagnetic Member=Component R3 10¦¸ (10R0) ¡À1%
+Added Member To Class: ClassName=electromagnetic Member=Component U1 LM393DR2G
+Added Room: Name=electromagnetic

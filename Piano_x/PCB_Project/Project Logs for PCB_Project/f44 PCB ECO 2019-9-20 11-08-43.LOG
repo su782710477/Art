@@ -1,0 +1,4 @@
+Added Component: Designator=F1(SMD1812P260)
+Added Pin To Net: NetName=NetD5_2 Pin=F1-1
+Added Pin To Net: NetName=VBUS Pin=F1-2
+Added Member To Class: ClassName=power Member=Component F1 SMD1812P260_FUSE
